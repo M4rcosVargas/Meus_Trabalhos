@@ -8,7 +8,7 @@ Enquanto você estiver aqui, verás um pouco das coisas que fiz durante os meus 
 
 ### Primeiro Trabalho - Programação em C++
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Este trabalho foi realizado no 1º período da minha Universidade. O objetivo dele é calcular os dígitos verificadores do CPF.
 
 ```markdown
 Syntax highlighted code block
