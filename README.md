@@ -2,9 +2,9 @@
 
 ## Um pouco sobre mim
 
-You can use the [editor on GitHub](https://github.com/M4rcosVargas/Programas-Feitos-Durante-A-Minha-Universidade/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Eu me chamo Marcos Peixer Vargas, tenho 17 anos e curso Ciência da Computação na Universidade do Vale de Itajai (UNIVALI), estou do 1º Período. Des de criança sempre me interessei em computadores e suas formas de funcionamento. Por isso gosto muito de linguagens de programação.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Enquanto você estiver aqui, verás um pouco das coisas que fiz durante os meus períodos de Univesidade. Tentarei sempre atualizar a página da melhor forma. Espero que goste!
 
 ### Markdown
 
