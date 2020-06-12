@@ -1,6 +1,6 @@
 ## Sejam Todos Muito Bem-Vindos
 
-## Um pouco sobre mim
+### Um pouco sobre mim
 
 Eu me chamo Marcos Peixer Vargas, tenho 17 anos e curso Ciência da Computação na Universidade do Vale de Itajai (UNIVALI), estou do 1º Período. Des de criança sempre me interessei em computadores e suas formas de funcionamento. Por isso gosto muito de linguagens de programação.
 
