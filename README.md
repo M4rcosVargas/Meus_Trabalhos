@@ -6,7 +6,7 @@ Eu me chamo Marcos Peixer Vargas, tenho 17 anos e curso Ciência da Computação
 
 Enquanto você estiver aqui, verás um pouco das coisas que fiz durante os meus períodos de Univesidade. Tentarei sempre atualizar a página da melhor forma.
 
-### Primeiro Trabalho
+### Primeiro Trabalho - Programação em C++
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
