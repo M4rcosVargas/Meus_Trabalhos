@@ -16,6 +16,6 @@ Este trabalho foi realizado no 1º período da minha Universidade. Meu professor
 #### Link Para O Repositório: https://github.com/M4rcosVargas/Meus_Trabalhos/tree/master/Calculo%20de%20CPF
 
 '''C++
-count << Olá mundo
+cout << Olá mundo
 '''
 
